@@ -1,0 +1,13 @@
+Seen on Ethell.
+
+Tooltip indicates Item Level 370.
+But the computed stats are for Item Level 371 (both Morale and Physical Mastery):
+
+<item key="1879370355" name="Ironfold Standard of War" level="371" instanceId="261524359/50987016" birthName="" crafterName="Lorewyne [F]" 
+boundTo="character:2598197/34078720" time="1561308374000">
+<stats>
+<stat name="MORALE" value="744900"/>
+<stat name="PHYSICAL_MASTERY" value="2106800"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" value="500"/>
+</stats>
+</item>

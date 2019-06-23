@@ -1,0 +1,22 @@
+Seen on Giswald:
+
+<item key="1879366082" name="Master-crafted Helm of Thorin's Strength" level="349" instanceId="1456345255/50987015" birthName="" crafterName="Kargarth [M]" boundTo="character:2953074/34078720" time="1561299526000">
+<money gold="0" silver="96" copper="57"/>
+<stats>
+<stat name="ARMOUR" value="507800"/>
+<stat name="MIGHT" value="90000"/>
+<stat name="VITALITY" value="78700"/>
+<stat name="PHYSICAL_MASTERY" value="619700"/>
+<stat name="LIGHT_OF_EARENDIL" value="2000"/>
+</stats>
+<essences>
+<essence id="1879347031" name="Abyssal Essence of Physical Mastery"/>
+<essence id="1879347031" name="Abyssal Essence of Physical Mastery"/>
+</essences>
+</item>
+
+Stats are OK except armour:
+- displayed armour is 5078.
+- computed armour is 6071.
+
+Don't know why.

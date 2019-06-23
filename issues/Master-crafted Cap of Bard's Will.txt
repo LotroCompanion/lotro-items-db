@@ -1,0 +1,21 @@
+Seen on Meva:
+
+<item key="1879366084" name="Master-crafted Cap of Bard's Will" level="349" birthName="" crafterName="">
+<stats>
+<stat name="ARMOUR" value="406200"/>
+<stat name="VITALITY" value="78700"/>
+<stat name="WILL" value="90000"/>
+<stat name="TACTICAL_MASTERY" value="619700"/>
+<stat name="LIGHT_OF_EARENDIL" value="2000"/>
+</stats>
+<essences>
+<essence id="1879347015" name="Empowered Shadow Essence of Tactical Mastery"/>
+<essence id="1879347015" name="Empowered Shadow Essence of Tactical Mastery"/>
+</essences>
+</item>
+
+Stats are OK except armour:
+- displayed armour is 4062.
+- computed armour is 4032.
+
+Don't know why.
