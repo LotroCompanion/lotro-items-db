@@ -42287,7 +42287,7 @@
 <stat name="ICPR" scaling="1879212036"/>
 </stats>
 </item>
-<item key="1879060146" name="Spear of Battle" icon="1090525483-1090519044-1090525484-1090525485" level="47" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BIND_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" requiredClass="Guardian;Beorning" valueTableId="1879049942" dps="22.04258" dpsTableId="1879049778" minDamage="19" maxDamage="25" damageType="BELERIAND" weaponType="SPEAR">
+<item key="1879060146" name="Spear of Battle" icon="1090525483-1090519044-1090525484-1090525485" level="47" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BIND_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" requiredClass="Guardian;Beorning" description="key:620765201:54354734" valueTableId="1879049942" dps="22.04258" dpsTableId="1879049778" minDamage="19" maxDamage="25" damageType="BELERIAND" weaponType="SPEAR">
 <stats>
 <stat name="MIGHT" scaling="1879211547"/>
 <stat name="VITALITY" scaling="1879211533"/>
@@ -129934,7 +129934,7 @@
 <stat name="ARMOUR" scaling="1879055740"/>
 </stats>
 </item>
-<item key="1879109837" name="Spear-shaker's Jacket" icon="1090526622-1090519044-1091947416" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" valueTableId="1879049799" armourType="MEDIUM">
+<item key="1879109837" name="Spear-shaker's Jacket" icon="1090526622-1090519044-1091947416" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" description="key:620805261:54354734" valueTableId="1879049799" armourType="MEDIUM">
 <stats>
 <stat name="AGILITY" scaling="1879314139"/>
 <stat name="VITALITY" scaling="1879347269"/>
@@ -129952,7 +129952,7 @@
 <stat name="ARMOUR" scaling="1879055744"/>
 </stats>
 </item>
-<item key="1879109839" name="Spear-shaker's Boots" icon="1090526543-1090519044-1091947416" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" valueTableId="1879049290" armourType="MEDIUM">
+<item key="1879109839" name="Spear-shaker's Boots" icon="1090526543-1090519044-1091947416" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" description="key:620805265:54354734" valueTableId="1879049290" armourType="MEDIUM">
 <stats>
 <stat name="AGILITY" scaling="1879211572"/>
 <stat name="VITALITY" scaling="1879347271"/>
@@ -129970,7 +129970,7 @@
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
 </item>
-<item key="1879109841" name="Spear-shaker's Gauntlets" icon="1090526588-1090519044-1091947416" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" valueTableId="1879050491" armourType="MEDIUM">
+<item key="1879109841" name="Spear-shaker's Gauntlets" icon="1090526588-1090519044-1091947416" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" description="key:620805269:54354734" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
 <stat name="AGILITY" scaling="1879212162"/>
 <stat name="VITALITY" scaling="1879347269"/>
@@ -129988,7 +129988,7 @@
 <stat name="ARMOUR" scaling="1879055484"/>
 </stats>
 </item>
-<item key="1879109843" name="Spear-shaker's Helm" icon="1090526120-1090519044-1091947416" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" valueTableId="1879050493" armourType="MEDIUM">
+<item key="1879109843" name="Spear-shaker's Helm" icon="1090526120-1090519044-1091947416" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" description="key:620805273:54354734" valueTableId="1879050493" armourType="MEDIUM">
 <stats>
 <stat name="AGILITY" scaling="1879314141"/>
 <stat name="VITALITY" scaling="1879211560"/>
@@ -130006,7 +130006,7 @@
 <stat name="ARMOUR" scaling="1879055752"/>
 </stats>
 </item>
-<item key="1879109845" name="Spear-shaker's Leggings" icon="1090526655-1090519044-1091947416" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" valueTableId="1879049915" armourType="MEDIUM">
+<item key="1879109845" name="Spear-shaker's Leggings" icon="1090526655-1090519044-1091947416" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" description="key:620805241:54354734" valueTableId="1879049915" armourType="MEDIUM">
 <stats>
 <stat name="AGILITY" scaling="1879314141"/>
 <stat name="VITALITY" scaling="1879211560"/>
@@ -130024,7 +130024,7 @@
 <stat name="ARMOUR" scaling="1879055748"/>
 </stats>
 </item>
-<item key="1879109847" name="Spear-shaker's Shoulders" icon="1090526841-1090519044-1091947416" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" valueTableId="1879049985" armourType="MEDIUM">
+<item key="1879109847" name="Spear-shaker's Shoulders" icon="1090526841-1090519044-1091947416" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Warden" description="key:620805245:54354734" valueTableId="1879049985" armourType="MEDIUM">
 <stats>
 <stat name="AGILITY" scaling="1879212162"/>
 <stat name="VITALITY" scaling="1879347269"/>
@@ -133171,7 +133171,7 @@
 <stat name="ARMOUR" scaling="1879055764"/>
 </stats>
 </item>
-<item key="1879112220" name="Spear-hurler's Jacket" icon="1091460818-1090519044-1091460819-1091460820" level="60" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" valueTableId="1879049799" scaling="Item_Level#60-" armourType="MEDIUM">
+<item key="1879112220" name="Spear-hurler's Jacket" icon="1091460818-1090519044-1091460819-1091460820" level="60" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" description="key:620807149:54354734" valueTableId="1879049799" scaling="Item_Level#60-" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879211972"/>
 <stat name="AGILITY" scaling="1879211976"/>
@@ -133618,7 +133618,7 @@
 <stat name="ARMOUR" scaling="1879055760"/>
 </stats>
 </item>
-<item key="1879112274" name="Spear-hurler's Gauntlets" icon="1091460332-1090519044-1091460333-1091460334" level="60" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" valueTableId="1879050491" scaling="Item_Level#60-" armourType="MEDIUM">
+<item key="1879112274" name="Spear-hurler's Gauntlets" icon="1091460332-1090519044-1091460333-1091460334" level="60" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" description="key:620807006:54354734" valueTableId="1879050491" scaling="Item_Level#60-" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879211972"/>
 <stat name="AGILITY" scaling="1879211976"/>
@@ -134195,7 +134195,7 @@
 <stat name="ARMOUR" scaling="1879055776"/>
 </stats>
 </item>
-<item key="1879112345" name="Spear-hurler's Leggings" icon="1091460545-1090519044-1091460546-1091460547" level="60" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" valueTableId="1879049915" scaling="Item_Level#60-" armourType="MEDIUM">
+<item key="1879112345" name="Spear-hurler's Leggings" icon="1091460545-1090519044-1091460546-1091460547" level="60" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" description="key:620807077:54354734" valueTableId="1879049915" scaling="Item_Level#60-" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879211972"/>
 <stat name="AGILITY" scaling="1879211976"/>
@@ -134484,7 +134484,7 @@
 <stat name="ARMOUR" scaling="1879055772"/>
 </stats>
 </item>
-<item key="1879112381" name="Spear-hurler's Shoulders" icon="1091460659-1090519044-1091460660-1091460661" level="60" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" valueTableId="1879049985" scaling="Item_Level#60-" armourType="MEDIUM">
+<item key="1879112381" name="Spear-hurler's Shoulders" icon="1091460659-1090519044-1091460660-1091460661" level="60" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" description="key:620807115:54354734" valueTableId="1879049985" scaling="Item_Level#60-" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879211972"/>
 <stat name="AGILITY" scaling="1879211976"/>
@@ -134673,7 +134673,7 @@
 <stat name="ARMOUR" scaling="1879055768"/>
 </stats>
 </item>
-<item key="1879112407" name="Spear-hurler's Helm" icon="1091460806-1090519044-1091460807-1091460808" level="60" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" valueTableId="1879050493" scaling="Item_Level#60-" armourType="MEDIUM">
+<item key="1879112407" name="Spear-hurler's Helm" icon="1091460806-1090519044-1091460807-1091460808" level="60" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="60" requiredClass="Warden" description="key:620807192:54354734" valueTableId="1879050493" scaling="Item_Level#60-" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879211972"/>
 <stat name="AGILITY" scaling="1879211976"/>
@@ -255663,7 +255663,7 @@
 <stat name="POWER" scaling="1879211993"/>
 </stats>
 </item>
-<item key="1879143924" name="Spear of the Bulwark" icon="1090520848-1090519043-1090520849-1090520850" level="58" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="58" requiredClass="Warden" requiredGloryRank="4" valueTableId="1879050473" dps="28.394495" dpsTableId="1879049778" minDamage="24" maxDamage="32" damageType="BELERIAND" weaponType="SPEAR">
+<item key="1879143924" name="Spear of the Bulwark" icon="1090520848-1090519043-1090520849-1090520850" level="58" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="58" requiredClass="Warden" requiredGloryRank="4" description="key:620831574:54354734" valueTableId="1879050473" dps="28.394495" dpsTableId="1879049778" minDamage="24" maxDamage="32" damageType="BELERIAND" weaponType="SPEAR">
 <stats>
 <stat name="MIGHT" scaling="1879211549"/>
 <stat name="AGILITY" scaling="1879211558"/>
@@ -265998,7 +265998,7 @@
 <stat name="POWER" scaling="1879211791"/>
 </stats>
 </item>
-<item key="1879153840" name="Spear of Keriä" icon="1090520848-1090519044-1090520849-1090520850" level="50" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BIND_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" valueTableId="1879049942" dps="23.328001" dpsTableId="1879049778" minDamage="20" maxDamage="27" damageType="BELERIAND" weaponType="SPEAR">
+<item key="1879153840" name="Spear of Keriä" icon="1090520848-1090519044-1090520849-1090520850" level="50" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BIND_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" description="key:620838153:54354734" valueTableId="1879049942" dps="23.328001" dpsTableId="1879049778" minDamage="20" maxDamage="27" damageType="BELERIAND" weaponType="SPEAR">
 <stats>
 <stat name="ICPR" scaling="1879212031"/>
 <stat name="AGILITY" scaling="1879211555"/>
@@ -553922,13 +553922,13 @@
 <item key="1879302474" name="Shimmering Boots" icon="1090525094-1091591349-1090525096" level="1" slot="FEET" category="ITEM" class="180" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
 <stats/>
 </item>
-<item key="1879302475" name="Flame-tender's Gloves" icon="1090529611-1091591349-1090529613" level="1" slot="HAND" category="ITEM" class="184" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
+<item key="1879302475" name="Flame-tender's Gloves" icon="1090529611-1091591349-1090529613" level="1" slot="HAND" category="ITEM" class="184" equipmentCategory="32" quality="COMMON" description="key:620946111:54354734" valueTableId="1879185018">
 <stats/>
 </item>
 <item key="1879302476" name="Bounds Beating Leggings" icon="1090527164-1091591349-1090527166" level="1" slot="LEGS" category="ITEM" class="185" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
 <stats/>
 </item>
-<item key="1879302477" name="Flame-tender's Cloak" icon="1090522482-1091591349-1090522484" level="1" slot="BACK" category="ITEM" class="97" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
+<item key="1879302477" name="Flame-tender's Cloak" icon="1090522482-1091591349-1090522484" level="1" slot="BACK" category="ITEM" class="97" equipmentCategory="32" quality="COMMON" description="key:620946116:54354734" valueTableId="1879185018">
 <stats/>
 </item>
 <item key="1879302478" name="Shimmering Leggings" icon="1091638019-1091591349-1091638020" level="1" slot="LEGS" category="ITEM" class="185" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
@@ -553937,7 +553937,7 @@
 <item key="1879302479" name="Silvan Shadows Helm" icon="1091667227-1091591349-1091667228" level="1" slot="HEAD" category="ITEM" class="183" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
 <stats/>
 </item>
-<item key="1879302480" name="Flame-tender's Boots" icon="1090520000-1091591349-1090520001" level="1" slot="FEET" category="ITEM" class="180" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
+<item key="1879302480" name="Flame-tender's Boots" icon="1090520000-1091591349-1090520001" level="1" slot="FEET" category="ITEM" class="180" equipmentCategory="32" quality="COMMON" description="key:620946132:54354734" valueTableId="1879185018">
 <stats/>
 </item>
 <item key="1879302481" name="Bounds Beating Gloves" icon="1090526244-1091591349-1090526246" level="1" slot="HAND" category="ITEM" class="184" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
@@ -569040,7 +569040,7 @@
 <item key="1879312661" name="Prince Imrahil's Shoes" icon="1090524300-1091591349-1090524301" level="1" slot="FEET" category="ITEM" class="180" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
 <stats/>
 </item>
-<item key="1879312662" name="Flame-keeper's Boots" icon="1091460788-1091591349-1091460789" level="1" slot="FEET" category="ITEM" class="180" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
+<item key="1879312662" name="Flame-keeper's Boots" icon="1091460788-1091591349-1091460789" level="1" slot="FEET" category="ITEM" class="180" equipmentCategory="32" quality="COMMON" description="key:620951110:54354734" valueTableId="1879185018">
 <stats/>
 </item>
 <item key="1879312664" name="Flame-keeper's Set" pluralName="key:620951101:98907573" icon="1091437773-1091591349-1091947416" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="UNCOMMON" description="key:620951101:54354734" valueTableId="1879049581">
@@ -569087,7 +569087,7 @@
 <item key="1879312678" name="Bowmaster of Thranduil's Helm" icon="1091727224-1091591349-1091727223" level="1" slot="HEAD" category="ITEM" class="183" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
 <stats/>
 </item>
-<item key="1879312680" name="Flame-keeper's Shoulder-guards" icon="1091727231-1091591349-1091727233" level="1" slot="SHOULDER" category="ITEM" class="181" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
+<item key="1879312680" name="Flame-keeper's Shoulder-guards" icon="1091727231-1091591349-1091727233" level="1" slot="SHOULDER" category="ITEM" class="181" equipmentCategory="32" quality="COMMON" description="key:620951133:54354734" valueTableId="1879185018">
 <stats/>
 </item>
 <item key="1879312681" name="Yule Cheer Cap" icon="1091782371-1091591349-1091782372" level="1" slot="HEAD" category="ITEM" class="183" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
@@ -569134,7 +569134,7 @@
 <item key="1879312696" name="Prince Imrahil's Robe" icon="1091557842-1091591349-1091557843" level="1" slot="CHEST" category="ITEM" class="182" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
 <stats/>
 </item>
-<item key="1879312699" name="Flame-keeper's Gloves" icon="1091727192-1091591349-1091727200" level="1" slot="HAND" category="ITEM" class="184" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
+<item key="1879312699" name="Flame-keeper's Gloves" icon="1091727192-1091591349-1091727200" level="1" slot="HAND" category="ITEM" class="184" equipmentCategory="32" quality="COMMON" description="key:620951108:54354734" valueTableId="1879185018">
 <stats/>
 </item>
 <item key="1879312700" name="Swordsman of Bard's Mantle" icon="1091667687-1091591349-1091667688" level="1" slot="SHOULDER" category="ITEM" class="181" equipmentCategory="32" quality="COMMON" valueTableId="1879185018">
@@ -697360,7 +697360,7 @@
 <item key="1879389925" name="Great Axe of the Vales" icon="1092494538-1090519043-1091947416" level="1" slot="MAIN_HAND" precludedSlots="OFF_HAND" category="WEAPON" class="12" equipmentCategory="6" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="RARE" valueTableId="1879049280" dps="2.69568" dpsTableId="1879050472" minDamage="2" maxDamage="3" damageType="COMMON" weaponType="TWO_HANDED_AXE">
 <stats/>
 </item>
-<item key="1879389926" name="Spear of the Vales" icon="1092494540-1090519043-1091947416" level="1" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="RARE" valueTableId="1879049280" dps="2.69568" dpsTableId="1879050472" minDamage="2" maxDamage="3" damageType="COMMON" weaponType="SPEAR">
+<item key="1879389926" name="Spear of the Vales" icon="1092494540-1090519043-1091947416" level="1" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="RARE" description="key:621021819:54354734" valueTableId="1879049280" dps="2.69568" dpsTableId="1879050472" minDamage="2" maxDamage="3" damageType="COMMON" weaponType="SPEAR">
 <stats/>
 </item>
 <item key="1879389927" name="Rune-stone of the Vales" icon="1092494537-1090519043-1091947416" level="1" slot="MAIN_HAND" precludedSlots="OFF_HAND" category="WEAPON" class="104" equipmentCategory="39" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="RARE" valueTableId="1879049280" dps="2.02176" dpsTableId="1879049803" minDamage="2" maxDamage="2" damageType="COMMON" weaponType="RUNE_STONE">
@@ -718175,7 +718175,7 @@
 <item key="1879404221" name="Mace of the Vales" icon="1092522860-1090519043-1091947416" level="1" slot="EITHER_HAND" category="WEAPON" class="30" equipmentCategory="27" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="RARE" valueTableId="1879049280" dps="2.02176" dpsTableId="1879049803" minDamage="2" maxDamage="2" damageType="COMMON" weaponType="ONE_HANDED_MACE">
 <stats/>
 </item>
-<item key="1879404222" name="Spear of the Vales" icon="1092522868-1090519043-1091947416" level="1" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="RARE" valueTableId="1879049280" dps="2.69568" dpsTableId="1879050472" minDamage="2" maxDamage="3" damageType="COMMON" weaponType="SPEAR">
+<item key="1879404222" name="Spear of the Vales" icon="1092522868-1090519043-1091947416" level="1" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="RARE" description="key:621031244:54354734" valueTableId="1879049280" dps="2.69568" dpsTableId="1879050472" minDamage="2" maxDamage="3" damageType="COMMON" weaponType="SPEAR">
 <stats/>
 </item>
 <item key="1879404223" name="Two-handed Sword of the Vales" icon="1092522864-1090519043-1091947416" level="1" slot="MAIN_HAND" precludedSlots="OFF_HAND" category="WEAPON" class="44" equipmentCategory="3" binding="BOUND_TO_ACCOUNT_ON_ACQUIRE" quality="RARE" valueTableId="1879049280" dps="2.69568" dpsTableId="1879050472" minDamage="2" maxDamage="3" damageType="COMMON" weaponType="TWO_HANDED_SWORD">
